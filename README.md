@@ -14,11 +14,12 @@ $ python3 main.py
 ```
 # Overview
 
-**Hand Gesure Detection**
+**Hand Gesure Detection:** <br>
 ![Hand_Gesture_Detection](https://github.com/25011908vardhan/Image_Processing_Project/assets/75671830/7e9c03ff-4af0-418f-bcee-aaee83d54c86)
+<br>
+**Gesture Paint:** <br>
+![Gesture_Paint](https://github.com/25011908vardhan/Image_Processing_Project/assets/75671830/8dc44f41-4db3-4857-ba8f-16f601b06f0a)
+<br>
 
-**Gesture Paint:**
-![Gesture_Paint](https://github.com/25011908vardhan/Image_Processing_Project/assets/75671830/a74e6dba-7090-4392-9d50-d3365f97c5c8)
-
-**Rock, Paper, Scissors:**
+**Rock, Paper, Scissors:** <br>
 ![Rock_Paper_Scissor](https://github.com/25011908vardhan/Image_Processing_Project/assets/75671830/dc9a66a3-1f63-4854-80a0-2acdb465f0d5)
